@@ -3,7 +3,7 @@
 namespace GodBoy.CL.Order.Enum
 {
     /// <summary>
-    /// 交通
+    /// 交通方式
     /// </summary>
     public enum Traffic:byte
     {
